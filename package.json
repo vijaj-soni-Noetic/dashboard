@@ -14,7 +14,7 @@
     "react-scripts": "3.4.0",
     "styled-components": "^5.0.1"
   },
-  "homepage": "https://vijay-soni-Noetic.github.io/dashboard",
+  "homepage": "https://vijay-soni-Noetic.github.io/admin",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
