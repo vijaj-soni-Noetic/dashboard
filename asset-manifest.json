@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/admin/static/css/main.ece41771.chunk.css",
-    "main.js": "/admin/static/js/main.df835e30.chunk.js",
-    "main.js.map": "/admin/static/js/main.df835e30.chunk.js.map",
-    "runtime-main.js": "/admin/static/js/runtime-main.f9c1702f.js",
-    "runtime-main.js.map": "/admin/static/js/runtime-main.f9c1702f.js.map",
-    "static/js/2.b83f3ce4.chunk.js": "/admin/static/js/2.b83f3ce4.chunk.js",
-    "static/js/2.b83f3ce4.chunk.js.map": "/admin/static/js/2.b83f3ce4.chunk.js.map",
-    "index.html": "/admin/index.html",
-    "precache-manifest.64ce704e44259ab4136b8db9d06ce2dc.js": "/admin/precache-manifest.64ce704e44259ab4136b8db9d06ce2dc.js",
-    "service-worker.js": "/admin/service-worker.js",
-    "static/css/main.ece41771.chunk.css.map": "/admin/static/css/main.ece41771.chunk.css.map",
-    "static/js/2.b83f3ce4.chunk.js.LICENSE.txt": "/admin/static/js/2.b83f3ce4.chunk.js.LICENSE.txt",
-    "static/media/profilelg.png": "/admin/static/media/profilelg.eab8d882.png",
-    "static/media/profilesm.png": "/admin/static/media/profilesm.03f51271.png"
+    "main.css": "/dashboard/static/css/main.ece41771.chunk.css",
+    "main.js": "/dashboard/static/js/main.df835e30.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.df835e30.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.dbad7bbb.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.dbad7bbb.js.map",
+    "static/js/2.ccf231b6.chunk.js": "/dashboard/static/js/2.ccf231b6.chunk.js",
+    "static/js/2.ccf231b6.chunk.js.map": "/dashboard/static/js/2.ccf231b6.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.d39e40c5e3963419cee050d35a26af73.js": "/dashboard/precache-manifest.d39e40c5e3963419cee050d35a26af73.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/css/main.ece41771.chunk.css.map": "/dashboard/static/css/main.ece41771.chunk.css.map",
+    "static/js/2.ccf231b6.chunk.js.LICENSE.txt": "/dashboard/static/js/2.ccf231b6.chunk.js.LICENSE.txt",
+    "static/media/profilelg.png": "/dashboard/static/media/profilelg.eab8d882.png",
+    "static/media/profilesm.png": "/dashboard/static/media/profilesm.03f51271.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9c1702f.js",
-    "static/js/2.b83f3ce4.chunk.js",
+    "static/js/runtime-main.dbad7bbb.js",
+    "static/js/2.ccf231b6.chunk.js",
     "static/css/main.ece41771.chunk.css",
     "static/js/main.df835e30.chunk.js"
   ]
